@@ -116,12 +116,12 @@
 }
 
 .main {
-	display: inline-block;
 	height: 570px;
 	background-color: #e6e6e6;
+	margin-bottom: 60px;
 }
 .contact {
-	width: 250px;
+	vertical-align: top;
 }
 .contact-title {
 	color: #3d58a6;
@@ -131,16 +131,18 @@
 .contact-li span{
 	color: grey;
 }
-.contact-image {
+.map {
 	display: inline-block;
+	width: 874px;
 }
+
 /*BODY*/
 
 /*FOOTER*/
 
 .footer-logo img{
 	height: 29px;
-	margin-bottom: 90px;
+	margin-bottom: 30px;
 }
 .fb-logo {
 	padding-right: 40px;
