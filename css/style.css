@@ -1,0 +1,153 @@
+/*HEADER*/
+
+.logo img{
+	height: 36px;
+	margin: 30px 30px 30px 0px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-a {
+	color: #3d58a6;
+	font-size: 22px;
+	font-weight: 600;
+}
+.active {
+	color: #ee4036;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+/*HEADER*/
+
+/*BODY*/
+
+.number {
+	display: inline-block;
+	background-color: #3d58a6;
+	color: white;
+	font-size: 56px;
+	padding: 5px;
+	margin-bottom: 3px;
+}
+.month {
+	color: #3d58a6;
+	font-size: 22px;
+	margin-bottom: 30px;
+}
+.storyline {
+	font-size: 22px;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+.article-text {
+	display: inline-block;
+	width: 920px;
+	font-weight: 550;
+	font-size: 16px;
+	margin-bottom: 90px;
+}
+.article-text p{
+	margin-bottom: 20px;
+}
+.article-image {
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.main-image img{
+	width: 1170px;
+	margin-bottom: 120px;
+}
+.title-h2{
+	margin-bottom: 30px;
+	background-color: pink;
+	width: 344px;
+	font-size: 24px;
+}
+.div-1 {
+	display: inline-block;
+	height: 220px;
+	width: 570px;
+	margin-right: 30px;
+	background-color: #f2f2f2;
+	vertical-align: top;
+}
+.div-title {
+	margin: 16px auto 20px 50px;
+	background-color: pink;
+	width: 210px;
+	text-transform: uppercase;
+	font-size: 22px;
+	color: #3d58a6;
+}
+.div-1 .div-title {
+	width: 270px;
+}
+.div-2 {
+	display: inline-block;
+	height: 220px;
+	width: 570px;
+	background-color: #f2f2f2;
+}
+.div-2 .text{
+	color: #58595b;
+}
+.image {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 60px;
+	padding-left: 50px;
+}
+.text {
+	display: inline-block;
+	width: 350px;
+	font-size: 20px;
+}
+.adv {
+	margin-bottom: 70px;
+}
+
+.main {
+	display: inline-block;
+	height: 570px;
+	background-color: #e6e6e6;
+}
+.contact {
+	width: 250px;
+}
+.contact-title {
+	color: #3d58a6;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.contact-li span{
+	color: grey;
+}
+.contact-image {
+	display: inline-block;
+}
+/*BODY*/
+
+/*FOOTER*/
+
+.footer-logo img{
+	height: 29px;
+	margin-bottom: 90px;
+}
+.fb-logo {
+	padding-right: 40px;
+	border-right: solid;
+	border-color: #3d58a6;
+}
+.youtube-logo {
+	padding-left: 35px;
+}
+/*FOOTER*/
